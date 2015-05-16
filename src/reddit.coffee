@@ -1,5 +1,5 @@
 # Description:
-#   Say Hi to Hubot.
+#   Reddit integration with Hubot.
 #
 # Dependencies:
 #   None
