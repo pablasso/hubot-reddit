@@ -13,7 +13,7 @@
 # Author:
 #   EnriqueVidal
 
-lookup_site = "http://www.reddit.com/"
+lookup_site = "https://www.reddit.com/"
 
 module.exports = (robot)->
   robot.respond /reddit( me)? ([a-z0-9\-_\.]+\/?[a-z0-9\-_\.]+)( [0-9]+)?/i, (message)->
